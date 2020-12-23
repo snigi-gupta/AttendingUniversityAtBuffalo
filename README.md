@@ -4,3 +4,4 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 *This repository is a contribution of many UB students.* 
 
 - Download the entire packet and go through the documents to get all your queries answered. 
+- Click on the green button marked 'code' and then click on 'Download .zip'
