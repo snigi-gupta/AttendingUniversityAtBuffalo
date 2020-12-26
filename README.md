@@ -5,3 +5,6 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 
 - Download the entire packet and go through the documents to get all your queries answered. 
 - Click on the green button marked 'code' and then click on 'Download .zip'
+- Here’s a copy of the presentation which was delivered in the webinar today. 
+- This webinar was not an official one so kindly do not share this presentation with everyone. It is for student usage only. Kindly don’t print it. 
+- This presentation is based upon a senior’s experience and is not an official one. Do not rely on it completely.
