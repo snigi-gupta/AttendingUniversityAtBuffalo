@@ -4,8 +4,8 @@
 *Disclaimer*: This is a an unofficial guide based on a student's personal experience. Nothing mentioned here should be considered here as a rule, compulsory or official statement. This is purely to help CS students understand what to expect as a masters student in the CSE department of UB. This is purely based on the personal experience and personal opinion of the student.
 - - - -
 ## How to select courses in 1st, 2nd and 3rd semesters?
-- 1st Sem: 1 Easy, 2 Medium, 1 Hard
-- 2nd Sem: 3 Medium 1 Hard -*OR*- 1 Easy 1 Medium 2 Hard -*OR*- 1/2 Easy 2/3 Medium (Can Take 5 subjects)
+- 1st Sem: 1 Easy, 2 Medium, 1 Hard -*OR*- 1 Easy 3 Medium
+- 2nd Sem: 3 Medium 1 Hard -*OR*- 1 Easy 1 Medium 2 Hard -*OR*- 1/3 Easy 3/2 Medium (Can Take 5 subjects)
 - 3rd Sem: 2 Easy -*OR*- 1 Medium 1 Easy
 
 ## How to complete MS Requirements?
@@ -16,6 +16,11 @@
 - Choose 1-3 credits of Seminar which is 700 level course. You can choose upto 6 credits of Seminar also. You can choose upto 6 credits of courses from any other department also, if you have the permission from the Grad-coordinator and the Grad-Director.
 - Do one MS Project (is dependent on the course you select)
 - Always refer the graduate handbook of your year.
+
+## Grading system of UB
+- Absolute grading: Cut-off is decided by the professor and accordingly grades are assigned.
+- Relative grading: Cut-off is decided based on the final class performance and accordingly grades are assigned. 
+For types of grades check out this link:https://catalog.buffalo.edu/policies/explanation.html
 
 ## How to know the difficulty of the course?
 - Best way is to audit the class and attend the first lecture. On the first day the presentation has all logistics mentioned. If you cannot audit, ask a friend who has to share the ppt with you that has the logistics.
@@ -50,19 +55,15 @@ https://registrar.buffalo.edu/schedules/fall-2020.php
 OS by Tevik Kosar </br>
 DS by Steve (he left UB) </br>
 MNC by Dimitrios (he left UB) </br>
-Databses by Oliver </br>
+Databases by Oliver </br>
 ML by Varun </br>
 
-Other also appreciated courses
+Other also appreciated courses </br>
 RL by Alina </br>
 IR by Rohini </br>
 611 by Alan Hunt </br>
 
-
-## Some reviews of subjects that my friends pursued.
-| Subject | Review from a student|
-|---------|----------------------|
-|Reinforcement Learning by Alina| Reinforcement Learning is the best course I have taken here at UB and I have taken various ML courses like Computer Vision, NLP, and ML. I say this because of following reasons - The courses' content and flow is structured beautifully. The difficulty always increases. The Prof. has made interaction in class fun. The only class where almost the entire batch interacted with each other. The projects are very interesting and structured. You won't have to worry about anything else except working on your project. Same with quizzes. The Prof. is super helpful and passionate. Her teaching exudes that. You can ask her anything. I liked the idea of reinforcement learning. The concept. That's why I decided to pursue it. The course was easy for me but you should definitely have the pre-requisites beforehand. namely, python, machine learning (somewhat computer vision). The course is not for someone who wants to take a job after masters. The future prospects of the course are purely research. Take it considering this into account.|
+## For course review read CourseReview.md file in this folder.
 
 
 
