@@ -115,3 +115,7 @@ Link: https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw
   - Introduce yourself and ask for the person's time when reaching out to a stranger. 
   - Send a personalized LinkedIn note when you are sending a connection request.
 - Never give up
+
+### If you still have questions, you can start a new discussion in the discussion tab of the Github page. That way your question can be valuable and helpful to someone else too. I will answer it whenever possible.
+
+### All the very best for your Masters journey! You will rock it!
