@@ -71,7 +71,7 @@ IR by Rohini </br>
 611 by Alan Hunt </br>
 
 ## Who should take 611?
-- Anyone who wants to exlicitly complete their MS Project requirement. It might be that the course you opted for does not have a MS project component. In that case you must take 611.
+- Anyone who wants to explicitly complete their MS Project requirement. It might be that the course you opted for does not have a MS project component. In that case you must take 611.
 - This course should also be opted by any new grad who wants to show some industy-like experience and does not have any prior experience to showcase on their resume. This course is very ideal for those who joined UB right after their undergrad. 
 
 ## Link to the recorded webinar
@@ -80,7 +80,7 @@ This webinar was held on 8th February 2021 for the Spring 2021 batch at 10:30 AM
 *Use your UB email id to view/download the recording*
 Link: https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw
 
-### You can choose 5 courses but make sure to balance them well. UB will not charge you over 12 credits, which means you do not pay for the sixth course.
+### You can choose 5 courses but make sure to balance them well. UB will not charge you over 12 credits, which means you do not pay for the fifth course.
 
 ## TA/RA/GA/Technical Jobs
 - TA or Teaching Assistantship is not so readily given to masters students. This is very much dependent on the professor. Usually, Ph.D. students are TAs at UB.
