@@ -77,6 +77,7 @@ IR by Rohini </br>
 ## Link to the recorded webinar
 Here is the link to the recorded webinar. This webinar was held as an open-ended QnA. Questions were collect via GForm and then answered during the webinar. 
 This webinar was held on 8th February 2021 for the Spring 2021 batch at 10:30 AM EST.</br>
+*Use your UB email id to view/download the recording*
 Link: https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw
 
 ### You can choose 5 courses but make sure to balance them well. UB will not charge you over 12 credits, which means you do not pay for the sixth course.
