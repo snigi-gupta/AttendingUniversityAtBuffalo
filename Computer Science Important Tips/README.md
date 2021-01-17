@@ -1,7 +1,7 @@
 # Important note for Computer Science Students
 
 - - - -
-*Disclaimer*: This is an unofficial guide based on a student's personal experience. Nothing mentioned here should be considered here as a rule, compulsory or official statement. This is purely to help CS students understand what to expect as a masters student in the CSE department of UB. This is purely based on the personal experience and personal opinion of the student.
+*Disclaimer*: This is an unofficial guide based on a student's personal experience. Nothing mentioned here should be considered here as a rule, compulsory or official statement. This is purely to help CS students understand what to expect as a masters student in the CSE department of UB. This is purely based on the personal experience and personal opinion of the student. 
 - - - -
 
 ## For course review read CourseReview.md file in this folder.
@@ -69,6 +69,7 @@ Other also appreciated courses </br>
 RL by Alina </br>
 IR by Rohini </br>
 611 by Alan Hunt </br>
+Algorithms for Modern Computing Systems by Russ Miller</br>
 
 ## Who should take 611?
 - Anyone who wants to explicitly complete their MS Project requirement. It might be that the course you opted for does not have a MS project component. In that case you must take 611.
@@ -120,3 +121,4 @@ Link: https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw
 ### If you still have questions, you can start a new discussion in the discussion tab of the Github page. That way your question can be valuable and helpful to someone else too. I will answer it whenever possible.
 
 ### All the very best for your Masters journey! You will rock it!
+*This was last updated on 17 Jan 2021
