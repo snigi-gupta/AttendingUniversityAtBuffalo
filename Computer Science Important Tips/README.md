@@ -19,7 +19,7 @@
 - Choose 1 additional course from the same/any other Breadth. It can be 500/600 level.
 - Choose 1-3 credits of Seminar which is a 700 level course. You can choose up to 6 credits of Seminar also. You can choose up to 6 credits of courses from any other department also if you have permission from the Grad-coordinator and the Grad-Director.
 - Do one MS Project (is dependent on the course you select)
-- __Always refer to the graduate handbook of your year.__
+- __Always refer to the graduate handbook of your year.__ Link to Handbook Directory: https://engineering.buffalo.edu/computer-science-engineering/information-for-faculty-and-staff/administration/handbooks.html
 - __Minimum GPA Criteria:__ This is a VERY important criterion. You minimum GPA should be 3.0 or above across the average sum of the 4 focus area.</br>
 So for example, if my breadth subjects are IML(Introduction to Machine Learning), AOA(Analysis of Algorithms), DS(Distributed Systems), and IR(Information Retrieval), then the average of only these four subjects should be 3.0 or above. It is possible at times that your overall GPA is 3.0 (or above) but your breadth average GPA is below 3.0. In that case, you will have to extend your graduation to another semester.
 - These requirements are to be completed during your entire graduation time (ideally within 3 semesters)
