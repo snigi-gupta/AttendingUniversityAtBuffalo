@@ -118,7 +118,7 @@ Link: https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw
   - Send a personalized LinkedIn note when you are sending a connection request.
 - Never give up
 
-### If you still have questions, you can start a new discussion in the discussion tab of the Github page. That way your question can be valuable and helpful to someone else too. I will answer it whenever possible.
+### If you still have questions, you can start a new discussion in the discussion tab of the Github page. That way your question can be valuable and helpful to someone else too. I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
 
 ### All the very best for your Masters journey! You will rock it!
 *This was last updated on 17 Jan 2021
