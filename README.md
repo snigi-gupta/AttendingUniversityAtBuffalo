@@ -49,4 +49,6 @@ Here is a list of the documents present in this repo.
 - Harshith Jain
 - Vivek Nichenametla https://www.linkedin.com/in/vivek-nichenametla-646381a2/
 
+### If you have questions, please use the GitHub QnA Discussion space. I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
+
 ### Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu
