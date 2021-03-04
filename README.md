@@ -1,12 +1,12 @@
 # AttendingUniversityAtBuffalo
-Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 1st January 2020.
+Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 4th March 2021.
 
-*This repository is a contribution of many UB students.* 
+*This repository is a contribution of many UB students. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
 
 - Download the entire packet and go through the documents to get all your queries answered. 
 - Click on the green button marked 'code' and then click on 'Download .zip'
-- Here’s a copy of the presentation which was delivered in the webinar today. 
-- This webinar was not an official one so kindly do not share this presentation with everyone. It is for student usage only. Kindly don’t print it. 
+- Here’s a copy of the presentation [Onboarding Spring-2021.pdf] which was delivered in the webinar today (December 23 2020). 
+- This webinar/presentation was not an official one so kindly do not share this presentation with everyone. It is for student usage only. Kindly don’t print it. 
 - This presentation is based upon a senior’s experience and is not an official one. Do not rely on it completely.
 - *Use your UB email id to view/download the recording* [Link to the video] https://buffalo.box.com/s/1nwdc5crncs4u1c1g6m1cgow9ymd0zki
 
