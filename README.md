@@ -1,10 +1,10 @@
 # AttendingUniversityAtBuffalo
-Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 4th March 2021.
+Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 23rd March 2021.
 
 *This repository is a contribution of many UB students. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
 
-- Download the entire packet and go through the documents to get all your queries answered. 
-- Click on the green button marked 'code' and then click on 'Download .zip'
+- To *download* a file, click on the file and then click on the **download** option in the right corner.![image](https://user-images.githubusercontent.com/56351901/112260759-edc77700-8c40-11eb-8319-809cd67f5323.png)
+
 - Here’s a copy of the presentation [Onboarding Spring-2021.pdf] which was delivered in the webinar today (December 23 2020). 
 - This webinar/presentation was not an official one so kindly do not share this presentation with everyone. It is for student usage only. Kindly don’t print it. 
 - This presentation is based upon a senior’s experience and is not an official one. Do not rely on it completely.
@@ -49,6 +49,8 @@ Here is a list of the documents present in this repo.
 - Harshith Jain
 - Vivek Nichenametla https://www.linkedin.com/in/vivek-nichenametla-646381a2/
 
-### If you have questions, please use the GitHub QnA Discussion space. I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
+### If you have questions, please use the *GitHub QnA Discussion space!!*. 
+![image](https://user-images.githubusercontent.com/56351901/112260930-3da63e00-8c41-11eb-96da-7a4447a3ef1f.png) 
+### I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
 
 ### Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu
