@@ -3,7 +3,8 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 
 *This repository is a contribution of many UB students. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
 
-- To *download* a file, click on the file and then click on the **download** option in the right corner.![image](https://user-images.githubusercontent.com/56351901/112260759-edc77700-8c40-11eb-8319-809cd67f5323.png)
+- To *download* a file, click on the file and then click on the **download** option in the right corner.
+![image](https://user-images.githubusercontent.com/56351901/112260759-edc77700-8c40-11eb-8319-809cd67f5323.png)
 
 - Here’s a copy of the presentation [Onboarding Spring-2021.pdf] which was delivered in the webinar today (December 23 2020). 
 - This webinar/presentation was not an official one so kindly do not share this presentation with everyone. It is for student usage only. Kindly don’t print it. 
