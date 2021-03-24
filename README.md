@@ -9,7 +9,7 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 - Here’s a copy of the presentation [Onboarding Spring-2021.pdf] which was delivered in the webinar today (December 23 2020). 
 - This webinar/presentation was not an official one so kindly do not share this presentation with everyone. It is for student usage only. Kindly don’t print it. 
 - This presentation is based upon a senior’s experience and is not an official one. Do not rely on it completely.
-- *Use your UB email id to view/download the recording* [Link to the video] https://buffalo.box.com/s/1nwdc5crncs4u1c1g6m1cgow9ymd0zki
+- *Use your UB email id to view/download the recording* [Link to the video](https://buffalo.box.com/s/1nwdc5crncs4u1c1g6m1cgow9ymd0zki)
 
 
 
