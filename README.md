@@ -51,7 +51,7 @@ Here is a list of the documents present in this repo.
 - Vivek Nichenametla https://www.linkedin.com/in/vivek-nichenametla-646381a2/
 
 ### If you have questions, please use the *GitHub QnA Discussion space!!*. 
-![Post_Question_](https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif)
+<img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
 
 ### I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
 
