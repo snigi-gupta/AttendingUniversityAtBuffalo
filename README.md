@@ -51,7 +51,8 @@ Here is a list of the documents present in this repo.
 - Vivek Nichenametla https://www.linkedin.com/in/vivek-nichenametla-646381a2/
 
 ### If you have questions, please use the *GitHub QnA Discussion space!!*. 
-![image](https://user-images.githubusercontent.com/56351901/112260930-3da63e00-8c41-11eb-96da-7a4447a3ef1f.png) 
+![Post_Question_](https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif)
+
 ### I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
 
 ### Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu
