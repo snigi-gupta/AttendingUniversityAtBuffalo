@@ -11,7 +11,12 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 - This presentation is based upon a senior’s experience and is not an official one. Do not rely on it completely.
 - *Use your UB email id to view/download the recording* [Link to the video](https://buffalo.box.com/s/1nwdc5crncs4u1c1g6m1cgow9ymd0zki)
 
+### Before you reachout to anyone in USA, make sure you follow these [Guidelines](https://gist.github.com/snigi-gupta/90b2ba5fa4d98eb4f529c72e146e0fef)
 
+If you have questions, please use the ***GitHub QnA Discussion space!!.*** 
+<img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
+
+I get notified via email when you submit your question and I am pretty quick with my responses on GitHub! </br>
 
 ## Contents
 
@@ -40,13 +45,7 @@ Here is a list of the documents present in this repo.
 |19|Visa Interview Questions and Answers by Vivek Nichenametla.docx             | Read VISA interviews of previous students and get an idea of what to expect.
 |20|Visa Related Documents.jpeg                                                 | Short index for VISA checklist.
 
-
-### If you have questions, please use the *GitHub QnA Discussion space!!*. 
-<img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
-
-### I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
-
-### Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu
+**Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu**
 
 #### Contributors
 - [Snigdha Gupta](https://www.linkedin.com/in/snigi/)
