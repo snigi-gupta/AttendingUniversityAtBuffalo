@@ -17,6 +17,7 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 #### [My UB Experience, Blunt and Honest](https://gist.github.com/snigi-gupta/afc478bfd0a8dde508a6687820df3342)
 #### [How are interviews conducted in USA](https://gist.github.com/snigi-gupta/0afc2824ec015fb93b2b06dc518653c7)
 #### [UB location disadvanatge?!](https://gist.github.com/snigi-gupta/673e4588158b8e9901a3f664ea3f7e19)</br>
+#### [Your question might be answered in the Discussion space. Check it out.](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/discussions)
 
 If you have questions, please use the ***GitHub QnA Discussion space!!.*** 
 <img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
