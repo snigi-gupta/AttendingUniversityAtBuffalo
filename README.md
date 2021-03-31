@@ -1,4 +1,4 @@
-# AttendingUniversityAtBuffalo
+## AttendingUniversityAtBuffalo
 Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 23rd March 2021.
 
 *This repository is a contribution of many UB students. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
@@ -13,7 +13,7 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 
 
 
-# Contents
+## Contents
 
 Here is a list of the documents present in this repo. 
 
@@ -40,15 +40,6 @@ Here is a list of the documents present in this repo.
 |19|Visa Interview Questions and Answers by Vivek Nichenametla.docx             | Read VISA interviews of previous students and get an idea of what to expect.
 |20|Visa Related Documents.jpeg                                                 | Short index for VISA checklist.
 
-# Contributors
-- Snigdha Gupta https://www.linkedin.com/in/snigi/
-- Dixit Thiya https://www.linkedin.com/in/dixitthiya/
-- Disha Ravipati https://www.linkedin.com/in/disharavipati/
-- Parth Rajput
-- KLV Rohan
-- Ashwad Pandit
-- Harshith Jain
-- Vivek Nichenametla https://www.linkedin.com/in/vivek-nichenametla-646381a2/
 
 ### If you have questions, please use the *GitHub QnA Discussion space!!*. 
 <img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
@@ -56,3 +47,13 @@ Here is a list of the documents present in this repo.
 ### I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
 
 ### Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu
+
+#### Contributors
+- [Snigdha Gupta](https://www.linkedin.com/in/snigi/)
+- [Dixit Thiya](https://www.linkedin.com/in/dixitthiya/)
+- [Disha Ravipati](https://www.linkedin.com/in/disharavipati/)
+- Parth Rajput
+- KLV Rohan
+- Ashwad Pandit
+- Harshith Jain
+- [Vivek Nichenametla](https://www.linkedin.com/in/vivek-nichenametla-646381a2/) </br>
