@@ -17,6 +17,7 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 - #### [My UB Experience, Blunt and Honest](https://gist.github.com/snigi-gupta/afc478bfd0a8dde508a6687820df3342)
 - #### [How are interviews conducted in USA](https://gist.github.com/snigi-gupta/0afc2824ec015fb93b2b06dc518653c7)
 - #### [UB location disadvanatge?!](https://gist.github.com/snigi-gupta/673e4588158b8e9901a3f664ea3f7e19)</br>
+- #### [UB CSE Course related Information](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/tree/main/Computer%20Science%20Important%20Tips)
 - #### [Your question might be answered in the Discussion space. Check it out.](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/discussions)
 - #### [Don't be a Lazy Googler](https://gist.github.com/snigi-gupta/118297c95c1047979c46831908ba84cf)
 
@@ -57,6 +58,7 @@ Here is a list of the documents present in this repo.
 #### Contributors
 - [Snigdha Gupta](https://www.linkedin.com/in/snigi/)
 - [Dixit Thiya](https://www.linkedin.com/in/dixitthiya/)
+- [Raunaq Jain]()https://www.linkedin.com/in/jainraunaq/
 - [Disha Ravipati](https://www.linkedin.com/in/disharavipati/)
 - Parth Rajput
 - KLV Rohan
