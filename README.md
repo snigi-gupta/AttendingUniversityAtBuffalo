@@ -58,7 +58,7 @@ Here is a list of the documents present in this repo.
 #### Contributors
 - [Snigdha Gupta](https://www.linkedin.com/in/snigi/)
 - [Dixit Thiya](https://www.linkedin.com/in/dixitthiya/)
-- [Raunaq Jain]()https://www.linkedin.com/in/jainraunaq/
+- [Raunaq Jain](https://www.linkedin.com/in/jainraunaq/)
 - [Disha Ravipati](https://www.linkedin.com/in/disharavipati/)
 - Parth Rajput
 - KLV Rohan
