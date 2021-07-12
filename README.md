@@ -1,7 +1,7 @@
 ## AttendingUniversityAtBuffalo
-Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 23rd March 2021.
+Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 11th July 2021.
 
-*This repository is a contribution of many UB students. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
+*This repository is a major contribution of [Snigdha Gupta](https://gist.github.com/snigi-gupta/04307be1585712b0410f91061ea16cb5). A lot of her UB friends have helped her out during the creation of this repo. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
 
 - To *download* a file, click on the file and then click on the **download** option in the right corner.</br>
 ![image](https://user-images.githubusercontent.com/56351901/112260759-edc77700-8c40-11eb-8319-809cd67f5323.png)
@@ -10,12 +10,19 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 - This webinar/presentation was not an official one so kindly do not share this presentation with everyone. It is for student usage only. Kindly don’t print it. 
 - This presentation is based upon a senior’s experience and is not an official one. Do not rely on it completely.
 
-## Video Recordings
-*Use your UB email id to view the recording* 
-- [Fall_2021 QnA](https://buffalo.box.com/s/l4yhv6q0syx5zt7tgknul0ngan3b5ghz)
-- [CSE Spring 2021 QnA](https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw)
-- [Arriving at UB and Must Knows](https://buffalo.box.com/s/7dgc6jwjb1dxrt0xaerd8d2gm2ovbhmy)
-- [All Webinars](https://buffalo.box.com/s/1nwdc5crncs4u1c1g6m1cgow9ymd0zki)
+## Please Read This First
+If you have questions, please use the ***GitHub QnA Discussion space!!.*** 
+<img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
+
+I get notified via email when you submit your question and I am pretty quick with my responses on GitHub! </br>
+I reply to questions posted on Github or [Instagram](https://www.instagram.com/yourtechdiary/) every Sunday! Please do not WhatsApp me your queries.
+
+<img src= "https://media.giphy.com/media/RKKPOi4piK6CUXiUj7/giphy.gif" width="60" height="30">
+
+- #### [Show your support by following me on Instagram](https://www.instagram.com/yourtechdiary/). Coming Soon vGHC21 Tips!
+- #### [Unable to find houses in Buffalo, HELP!](https://gist.github.com/snigi-gupta/2f7a6d15d47bf8d3a7d1bd06ba907796)
+- #### [Important note for CSE students](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/tree/main/Computer%20Science%20Important%20Tips)
+- #### [CSE course reviews](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/blob/main/Computer%20Science%20Important%20Tips/CourseReview.md)
 
 ## Important Links - FAQs
 - #### [Networking Guidelines (USA specific, You may not know)](https://gist.github.com/snigi-gupta/90b2ba5fa4d98eb4f529c72e146e0fef)
@@ -27,15 +34,19 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 - #### [Your question might be answered in the Discussion space. Check it out.](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/discussions)
 - #### [Don't be a Lazy Googler](https://gist.github.com/snigi-gupta/118297c95c1047979c46831908ba84cf)
 
-## Coming up next...
+## Coming up next on Instagram...
 - Dos and don'ts of resume
 - How to create LinkedIn profile
 - How to ace at Job hunting
 
-If you have questions, please use the ***GitHub QnA Discussion space!!.*** 
-<img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
 
-I get notified via email when you submit your question and I am pretty quick with my responses on GitHub! </br>
+## Video Recordings
+*Use your UB email id to view the recording* 
+- [Fall_2021 QnA](https://buffalo.box.com/s/l4yhv6q0syx5zt7tgknul0ngan3b5ghz)
+- [CSE Spring 2021 QnA](https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw)
+- [Arriving at UB and Must Knows](https://buffalo.box.com/s/7dgc6jwjb1dxrt0xaerd8d2gm2ovbhmy)
+- [All Webinars](https://buffalo.box.com/s/1nwdc5crncs4u1c1g6m1cgow9ymd0zki)
+
 
 ## Contents
 
