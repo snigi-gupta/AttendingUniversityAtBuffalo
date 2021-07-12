@@ -4,6 +4,8 @@ Few course reviews explained in detail
 
 - - - -
 *Disclaimer*: This is a an unofficial guide based on a student's personal experience. Nothing mentioned here should be considered here as a rule, compulsory or official statement. This is purely to help CS students understand what to expect as a masters student in the CSE department of UB. This is purely based on the personal experience and personal opinion of the student.
+
+_This repository is a major contribution of [Snigdha Gupta](https://gist.github.com/snigi-gupta/04307be1585712b0410f91061ea16cb5). A lot of her UB friends have helped her out during the creation of this repo. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information._
 - - - -
 
 Last Updated On: March 4 2021
