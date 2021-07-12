@@ -2,9 +2,12 @@
 
 - - - -
 *Disclaimer*: This is an unofficial guide based on a student's personal experience. Nothing mentioned here should be considered here as a rule, compulsory or official statement. This is purely to help CS students understand what to expect as a masters student in the CSE department of UB. This is purely based on the personal experience and personal opinion of the student. 
+
+*This repository is a major contribution of [Snigdha Gupta](https://gist.github.com/snigi-gupta/04307be1585712b0410f91061ea16cb5). A lot of her UB friends have helped her out during the creation of this repo. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
 - - - -
 
-## For course review read CourseReview.md file in this folder.
+## [For course review read CourseReview.md file in this folder.](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/blob/main/Computer%20Science%20Important%20Tips/CourseReview.md)
+
 - - - -
 
 ## How to select courses in the 1st, 2nd, and 3rd semesters?
@@ -120,5 +123,7 @@ Link: https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw
 
 ### If you still have questions, you can start a new discussion in the discussion tab of the Github page. That way your question can be valuable and helpful to someone else too. I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
 
+Follow me on [Instagram](https://www.instagram.com/yourtechdiary/) I share loads of helpful content there.
+
 ### All the very best for your Masters journey! You will rock it!
-*This was last updated on 17 Jan 2021
+*This was last updated on 11 Jul 2021
