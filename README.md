@@ -1,5 +1,5 @@
 ## AttendingUniversityAtBuffalo
-Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 11th July 2021.
+Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on _April 15 2022._
 
 *This repository is a major contribution of [Snigdha Gupta](https://gist.github.com/snigi-gupta/04307be1585712b0410f91061ea16cb5). A lot of her UB friends have helped her out during the creation of this repo. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
 
@@ -33,6 +33,7 @@ I reply to questions posted on Github or [Instagram](https://www.instagram.com/y
 - #### [UB CSE How to choose CSE courses?](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/tree/main/Computer%20Science%20Important%20Tips)
 - #### [Your question might be answered in the Discussion space. Check it out.](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/discussions)
 - #### [Don't be a Lazy Googler](https://gist.github.com/snigi-gupta/118297c95c1047979c46831908ba84cf)
+- #### [UB Career Fair](https://gist.github.com/snigi-gupta/2e1acedd0565e40067573514e04be1f5)
 
 ## Coming up next on Instagram...
 - Dos and don'ts of resume
