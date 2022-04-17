@@ -12,14 +12,18 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 
 ## Please Read This First
 If you have questions, please use the ***GitHub QnA Discussion space!!.*** 
+* UB related QnA [here](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/discussions)
+* For Job/Internship tips, networking, resume building etc. [here](https://github.com/snigi-gupta/yourtechdiary/discussions)
 <img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
 
 I get notified via email when you submit your question and I am pretty quick with my responses on GitHub! </br>
+You can also join the [Slack workspace](https://join.slack.com/t/yourtechdiary/shared_invite/zt-178prxb83-ti5Jo7YRkIO1L~PLxTMj_w) and join the community. Ask questions right away!
 I reply to questions posted on Github or [Instagram](https://www.instagram.com/yourtechdiary/) every Sunday! Please do not WhatsApp me your queries.
 
 <img src= "https://media.giphy.com/media/RKKPOi4piK6CUXiUj7/giphy.gif" width="60" height="30">
 
-- #### [Show your support by following me on Instagram](https://www.instagram.com/yourtechdiary/). Coming Soon vGHC21 Tips!
+- #### [Show your support by following me on Instagram](https://www.instagram.com/yourtechdiary/). Coming Soon vGHC22 Tips!
+- #### [Join Slack Workspace](https://join.slack.com/t/yourtechdiary/shared_invite/zt-178prxb83-ti5Jo7YRkIO1L~PLxTMj_w) and share it with your friends too!
 - #### [Unable to find houses in Buffalo, HELP!](https://gist.github.com/snigi-gupta/2f7a6d15d47bf8d3a7d1bd06ba907796)
 - #### [Important note for CSE students](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/tree/main/Computer%20Science%20Important%20Tips)
 - #### [CSE course reviews](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/blob/main/Computer%20Science%20Important%20Tips/CourseReview.md)
@@ -34,19 +38,6 @@ I reply to questions posted on Github or [Instagram](https://www.instagram.com/y
 - #### [Your question might be answered in the Discussion space. Check it out.](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/discussions)
 - #### [Don't be a Lazy Googler](https://gist.github.com/snigi-gupta/118297c95c1047979c46831908ba84cf)
 - #### [UB Career Fair](https://gist.github.com/snigi-gupta/2e1acedd0565e40067573514e04be1f5)
-
-## Coming up next on Instagram...
-- Dos and don'ts of resume
-- How to create LinkedIn profile
-- How to ace at Job hunting
-
-
-## Video Recordings
-*Use your UB email id to view the recording* 
-- [Fall_2021 QnA](https://buffalo.box.com/s/l4yhv6q0syx5zt7tgknul0ngan3b5ghz)
-- [CSE Spring 2021 QnA](https://buffalo.box.com/s/fign3m9yqriapt7es34zpny4ww6giqqw)
-- [Arriving at UB and Must Knows](https://buffalo.box.com/s/7dgc6jwjb1dxrt0xaerd8d2gm2ovbhmy)
-- [All Webinars](https://buffalo.box.com/s/1nwdc5crncs4u1c1g6m1cgow9ymd0zki)
 
 
 ## Contents
