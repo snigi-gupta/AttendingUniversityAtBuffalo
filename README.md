@@ -67,7 +67,7 @@ Here is a list of the documents present in this repo.
 |19|[Visa Interview Questions and Answers by Vivek Nichenametla.docx](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/blob/main/Visa%20Interview%20Questions%20and%20Answers%20by%20Vivek%20Nichenametla.docx "Visa Interview Questions and Answers by Vivek Nichenametla.docx")             | Read VISA interviews of previous students and get an idea of what to expect.
 |20|[Visa Related Documents.jpeg](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/blob/main/Visa%20Related%20Documents.jpeg "Visa Related Documents.jpeg")                                                 | Short index for VISA checklist.
 
-**Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu**
+**Note: If you want to contribute to this repo or update an information please contact me at: https://topmate.io/snigdha_gupta**
 
 #### Contributors
 - [Snigdha Gupta](https://www.linkedin.com/in/snigi/)
